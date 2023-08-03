@@ -44,13 +44,13 @@ Follow the steps below to set up and use the Leap Year Calculator on your local 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/saishmirajkar/Leap-Year-Calculator.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your_repository
+cd Leap-Year-Calculator
 ```
 
 3. Install the required dependencies:
